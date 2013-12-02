@@ -3,7 +3,7 @@
 begin
   gem "ruby-progressbar"
 rescue Gem::LoadError
-  puts "Can't find gem ruby-progressbar. Please run 'gem install ruby-progressbar'." 
+  puts "Can't find gem ruby-progressbar. Please run 'gem install ruby-progressbar'."
   exit
 end
 
